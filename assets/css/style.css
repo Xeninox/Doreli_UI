@@ -494,7 +494,7 @@ a:focus {
 /* Footer */
 #footerwrap {
 	padding-top: 60px;
-	padding-bottom: 60px;
+	margin-bottom: -30px;
 	background: #384452;
 }
 
