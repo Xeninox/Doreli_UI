@@ -59,6 +59,8 @@ img {
 	max-width: 100%;
 }
 
+
+
 a { 
 	padding: 0;
 	margin: 0;
@@ -614,4 +616,31 @@ csmall2 {
 .share i {
 	padding-right: 15px;
 	font-size: 18px;
+}
+
+.form-control
+{
+	width: 70%;	
+}
+
+.form-group
+{
+	padding-left: 20%;
+}
+
+label
+{
+	padding-left: 30%;
+}
+
+#subButton
+{
+	margin-left: 20%;
+	width: 60%;
+}
+
+#pic
+{
+	height: 40px;
+	width: 40px;
 }
